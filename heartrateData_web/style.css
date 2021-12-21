@@ -1,0 +1,96 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .menubar {
+            padding-left: 20px;
+            color: white;
+        }
+        
+        .font-nav{
+            color: white;
+        }
+
+        .font_bold {
+            font-size: 17px;
+            font-weight: bold;
+            color: white;
+            margin: 5px;
+        }
+
+        .logout {
+            color: white;
+        }
+
+        .btn_hr_data {
+            padding: 5px;
+        }
+
+        .list-group {
+            margin-left: 20px;
+            text-align: center;
+        }
+
+        .text-color {
+            color: white;
+        }
+
+        .data {
+            width: 100%;
+            margin-bottom: 100px;
+        }
+
+        .form-control {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        .sbtn {
+            float: right;
+        }
+
+        .table {
+            text-align: center;
+        }
+
+        .s_to {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        .date_body {
+            align-content: center;
+            margin-right: 10px;
+            margin-left: -5px;
+        }
+
+        .Hinfo{
+            text-align: center;
+        }
+        
+        .col-form-label{
+            text-align : left;
+        }
+        .userform{
+            margin-top: 10px;
+        }
+
+        .content{
+            width: 100%;
+            height: auto;
+        }
+
+        .userinfo{
+            margin-left: 10px;
+        }
+
+        .getstart{
+            margin-right: 15px;
+        }
+
+        .infouserindex {
+            margin: 10px 20px;
+        }

@@ -1,0 +1,118 @@
+
+@media only screen and (max-width: 1024px){
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    .userinfo{
+        margin-right: -20px;
+    }
+
+    .infouserindex{
+        margin: 0;
+        font-size: 0.78em;
+    }
+
+    .table_body{
+        width: 100%;        
+    }
+    
+    .getstart,ol{
+        margin-left: -20px;
+        font-size: 1em;
+    }
+
+    .login_res{
+        width: 90%; 
+    }
+    .col_login_res{
+        display: none;
+    }
+    .regis_Res{
+        display: none;
+    }
+    .col_reser_res{
+        display: none;
+    }
+    
+}
+
+@media only screen and (max-width: 500px){
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .userinfo{
+        clear: right;
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .table_body{
+        clear: left;
+        width: 100%;      
+        margin-bottom: 10px;
+    }
+    
+    .getstart{
+        clear: right;
+        width: 100%;
+        margin: 0;
+    }
+
+    .login_res{
+        width: 90%; 
+    }   
+    .col_login_res{
+        display: none;
+    }
+    .regis_Res{
+        display: none;
+    }
+    .col_reser_res{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .userinfo{
+        clear: right;
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .table_body{
+        clear: left;
+        width: 100%;      
+        margin-bottom: 10px;
+    }
+    
+    .getstart{
+        clear: right;
+        width: 100%;
+        margin: 0;
+    }
+    .login_res{
+        width: 90%; 
+    }
+    .col_login_res{
+        display: none;
+    }
+    .col_regis_Res{
+        display: none;
+    }
+    .col_reser_res{
+        display: none;
+    }
+}
